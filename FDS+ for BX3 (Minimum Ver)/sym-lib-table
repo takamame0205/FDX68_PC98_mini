@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name FDSPlus_BX3-rescue)(type Legacy)(uri ${KIPRJMOD}/FDSPlus_BX3-rescue.lib)(options "")(descr ""))
-)
