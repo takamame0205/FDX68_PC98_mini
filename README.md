@@ -8,8 +8,8 @@ NECのPC-9800シリーズにFDX68を接続し、実FDDと切り替えるため�
 
 <b>3. ファイルの配置</b><BR>
 KiCad : KiCadプロジェクトファイル<BR>
-Firmware : マイコン(ATtiny13A)のファームウェア(バイナリ)
-Firm_Src : マイコン(ATtiny13A)のファームウェア(ソース)<BR>
+Tiny13 : マイコン(ATtiny13A)のファームウェア(ソース)<BR>
+Firmware : マイコン(ATtiny13A)のファームウェア(バイナリ)<BR>
   
   
 <b>4. 接続方法および設定方法</b><BR>
