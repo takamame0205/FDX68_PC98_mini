@@ -11,6 +11,7 @@ NECのPC-9800シリーズにFDX68を接続し、実FDDと併用するための�
   
 <b>4. ファイルの配置</b><BR>
 KiCad : KiCadプロジェクトファイル<BR>
+KiCad/garber : ガーバーファイル<BR>
 Tiny13 : マイコン(ATtiny13A)のファームウェア(AtmelStudio用ソース)<BR>
 Firmware : マイコン(ATtiny13A)のファームウェア(バイナリ)<BR>
 preview.png : 基板のプレビューイメージ<BR>
