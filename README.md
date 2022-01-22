@@ -14,7 +14,9 @@ KiCad : KiCadプロジェクトファイル<BR>
 KiCad/garber : ガーバーファイル<BR>
 Tiny13 : マイコン(ATtiny13A)のファームウェア(AtmelStudio用ソース)<BR>
 Firmware : マイコン(ATtiny13A)のファームウェア(Intel Hex形式バイナリ)<BR>
-　ヒューズ設定はビットはfuse.hex<BR>
+　ヒューズ設定データはfuse.hex<BR>
+　設定内容 : CKSEL = 01 (4.8MHz), CKDIV8 = 0 (600KHz)<br>
+　　SUT = 10 (Slow Start), WDTON = 1 (WDT OFF)<br>
 preview.png : 基板のプレビューイメージ<BR>
 scheme.png : 基板回路図<BR><br>
   
