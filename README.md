@@ -14,7 +14,7 @@ KiCad : KiCadプロジェクトファイル<BR>
 KiCad/garber : ガーバーファイル<BR>
 Tiny13 : マイコン(ATtiny13A)のファームウェア(AtmelStudio用ソース)<BR>
 Firmware : マイコン(ATtiny13A)のファームウェア(Intel Hex形式バイナリ)<BR>
-　ヒューズビットは
+　ヒューズ設定はビットはfuse.hex<BR>
 preview.png : 基板のプレビューイメージ<BR>
 scheme.png : 基板回路図<BR><br>
   
